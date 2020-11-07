@@ -14,5 +14,9 @@
     <string name="task_3">Task 3</string>
     <string name="task_4">Task 4</string>
     <string name="task_5">Task 5</string>
+    <string name="shameless_yt_channel_plug">Shameless YT Channel Plug</string>
     <string name="search_on_google">Search on Google</string>
+    <string name="task_failed_successfully_1">Task Failed Successfully #1</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="task_failed_successfully_2">Task Failed Successfully #2</string>
 </resources>
